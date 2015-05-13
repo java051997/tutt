@@ -1,0 +1,18 @@
+.darkBG{
+	background: #111;
+	margin: 3%
+	padding:6px;
+}
+
+.darkerBG{
+	background: #555;
+}
+
+.darkestBG{
+	background: #999;
+}
+
+
+.btn{
+	padding:10px;
+}
